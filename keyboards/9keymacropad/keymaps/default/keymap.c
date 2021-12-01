@@ -2,7 +2,6 @@
 
 enum custom_keycodes {
 	CPYFNDPST,
-	RSHRPRFINGUSINGS,
 };
 
 // On my Cherry tester 9-key, physical right row is keymaped to the left colum below and vice versa.
